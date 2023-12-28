@@ -21,7 +21,7 @@ body {
   justify-content: center;
 }
 
-#ttl {
-  margin: 200px;
+.ttl {
+  margin: 20px;
   color: #C499F3;
 }
